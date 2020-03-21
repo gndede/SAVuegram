@@ -1,4 +1,4 @@
-import firebase from 'firebase'
+basimport firebase from 'firebase'
 import 'firebase/firestore'
 
 // firebase init goes here
